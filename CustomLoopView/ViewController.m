@@ -2,9 +2,8 @@
 //  ViewController.m
 //  CustomLoopView
 //
-//  Created by qianfeng on 15-9-10.
-//  Copyright (c) 2015年 qianfeng. All rights reserved.
-//
+//  Created by LCJMac on 15-9-10.
+//  Copyright (c) 2015年 LCJ. All rights reserved.//
 
 #import "ViewController.h"
 #import "LoopView.h"
